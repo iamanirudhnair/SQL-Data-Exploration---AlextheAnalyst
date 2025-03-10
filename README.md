@@ -1,4 +1,4 @@
-# README for Covid Analysis SQL File
+# Covid Analysis SQL File
 
 ## Overview
 
